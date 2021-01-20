@@ -1,9 +1,11 @@
 package test;
 
 import static org.junit.jupiter.api.Assertions.*;
-import org.junit.jupiter.api.*;
 
-import app.*;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+
+import app.RespuestasParametros;
 
 public class TestPU {
 
